@@ -1,2 +1,7 @@
 # CSDS 458 Final Project
- The CSDS 458 class Final Project involving data integration of multi-omics data from a cancer gene dataset used to make novel predictions and insights.
+The CSDS 458 class Final Project involves data integration of multi-omics data from a cancer gene dataset used to make novel predictions and insights.
+This project aims to unravel the complex interplay between genetic, transcriptomic, proteomic, and clinical factors in breast cancer to enhance patient stratification for personalized treatment. By integrating multi-omics data—including gene expression, protein levels, and mutation status—with clinical indicators such as hormone receptor (PR, ER) and HER2 statuses, as well as histological subtyping, we seek to establish robust predictive models for patient survival and treatment response.
+
+The comprehensive dataset enables us to perform a variety of statistical analyses, from survival analysis to multivariate regression, to determine the prognostic significance of multi-omics profiles. Advanced machine learning techniques will be employed to predict vital outcomes and understand the molecular underpinnings that drive different responses to therapy among subtypes of breast cancer.
+
+Our goal is to identify biomarker signatures that correlate with survival rates and therapy resistance, facilitating targeted treatment decisions and improving clinical outcomes. This project not only contributes to the scientific understanding of breast cancer biology but also paves the way for advancements in the realm of precision oncology.
